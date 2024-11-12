@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @himanshujar
 - 👀 I’m interested in making apps,projects and learning new skills
-- 🌱 I’m currently learning CVRGU
-- 💞️ I’m looking to collaborate on flutter projects
+- 🌱 I’m currently working as Software Engineer
+- 💞️ I’m looking to collaborate on Generative AI, Python and Java projects.
 - 📫 reach me on himanshujar870@gmail.com
 
 <!---
